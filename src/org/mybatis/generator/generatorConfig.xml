@@ -13,8 +13,8 @@
 	
 		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://localhost:3306/yaoayo" userId="root"
-			password="root">
+			connectionURL="jdbc:mysql://47.94.252.160:3306/yaoayo" userId="root"
+			password="yaoyao1104">
 		</jdbcConnection>
 		
 		
